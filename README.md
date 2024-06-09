@@ -18,7 +18,7 @@ conda create -n hate python=3.8 -y
 ```
 
 ```bash
-conda activate hate
+conda activate nlp
 ```
 
 ```bash
@@ -37,7 +37,6 @@ https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 gcloud init
 ```
 
-
 ## Deployment
 
 1. Setting up circleCI
@@ -46,3 +45,4 @@ gcloud init
 4. Configure EC2
 5. config.yml
 6. env variables
+
